@@ -8,6 +8,7 @@ KS0193 밸런싱 로봇 앞쪽에 ㄴ자 포크를 달아 물체를 들어 올�
 - 영상: ESP32-CAM (전원만 공유, 데이터 연결 없음)
 
 자세한 배경과 결정 사항: [docs/project_overview.md](docs/project_overview.md)
+부품 목록: [docs/bom.md](docs/bom.md)
 베이스 키트 핀·타이머 정보: [../docs/base_kit.md](../docs/base_kit.md)
 
 ## 구조
