@@ -1,0 +1,20 @@
+# KiCad
+*-backups/
+*.lck
+\#auto_saved_files\#
+_autosave-*
+*.kicad_prl
+fp-info-cache
+*.bak
+
+# Arduino / PlatformIO
+build/
+.pio/
+
+# Secrets (Wi-Fi 등)
+secrets.h
+
+# OS / IDE
+.vscode/
+Thumbs.db
+desktop.ini

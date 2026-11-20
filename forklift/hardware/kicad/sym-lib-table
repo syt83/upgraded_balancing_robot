@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Converter")(type "KiCad")(uri "${KIPRJMOD}/symbols/Converter.kicad_sym")(options "")(descr ""))
+  (lib (name "FT6325M-360")(type "KiCad")(uri "${KIPRJMOD}/symbols/FT6325M-360.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9685_Module")(type "KiCad")(uri "${KIPRJMOD}/symbols/PCA9685_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-CAM")(type "KiCad")(uri "${KIPRJMOD}/symbols/ESP32-CAM.kicad_sym")(options "")(descr ""))
+)
